@@ -1,0 +1,13 @@
+C:\Users\MDT\Araimairu\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.exe
+C:\Users\MDT\Araimairu\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.deps.json
+C:\Users\MDT\Araimairu\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.runtimeconfig.json
+C:\Users\MDT\Araimairu\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.runtimeconfig.dev.json
+C:\Users\MDT\Araimairu\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.dll
+C:\Users\MDT\Araimairu\QUIZ\bin\Debug\netcoreapp3.1\QUIZ.pdb
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.csprojAssemblyReference.cache
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.AssemblyInfoInputs.cache
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.AssemblyInfo.cs
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.dll
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.pdb
+C:\Users\MDT\Araimairu\QUIZ\obj\Debug\netcoreapp3.1\QUIZ.genruntimeconfig.cache
